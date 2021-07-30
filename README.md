@@ -1,1 +1,1 @@
-# Wine-EDA
+# Capstone Projects
